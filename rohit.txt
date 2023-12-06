@@ -1,2 +1,3 @@
 hello adding items 1st time
 My name is Rohit
+this text is added in notepad
