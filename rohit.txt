@@ -3,3 +3,6 @@ My name is Rohit
 im writing this text in the chrome
 Change by proohit
 update in main
+
+Understanding merge and other commands
+added a new branch named Rohit
